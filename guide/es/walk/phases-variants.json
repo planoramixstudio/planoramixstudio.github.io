@@ -1,0 +1,63 @@
+{
+  "slug": "phases-variants",
+  "locale": "es",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "phases-variants-1.webp",
+      "box": {
+        "x": 86.11,
+        "y": 14.56,
+        "w": 5.63,
+        "h": 2.44
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "phases-variants-2.webp",
+      "box": {
+        "x": 44.58,
+        "y": 14.97,
+        "w": 1.39,
+        "h": 2.22
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "phases-variants-3.webp",
+      "box": {
+        "x": 41.68,
+        "y": 14.97,
+        "w": 5.56,
+        "h": 2.33
+      },
+      "kind": "type"
+    },
+    {
+      "img": "phases-variants-4.webp",
+      "box": {
+        "x": 41.16,
+        "y": 19.19,
+        "w": 7.53,
+        "h": 3
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "phases-variants-5.webp",
+      "box": {
+        "x": 48.36,
+        "y": 68.67,
+        "w": 3.27,
+        "h": 2.67
+      },
+      "kind": "tap"
+    }
+  ],
+  "result": {
+    "img": "phases-variants-r.webp"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "floor-plan",
+  "locale": "es",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "floor-plan-1.webp",
+      "box": {
+        "x": 10,
+        "y": 38.64,
+        "w": 3.09,
+        "h": 2.56
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "floor-plan-2.webp",
+      "box": {
+        "x": 43.36,
+        "y": 56.5,
+        "w": 8.62,
+        "h": 2.5
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "floor-plan-3.webp",
+      "box": {
+        "x": 39.81,
+        "y": 15.89,
+        "w": 4.49,
+        "h": 2.94
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "floor-plan-4.webp",
+      "box": {
+        "x": 19.52,
+        "y": 79.94,
+        "w": 13.65,
+        "h": 3.11
+      },
+      "kind": "draw"
+    },
+    {
+      "img": "floor-plan-5.webp",
+      "box": {
+        "x": 40.23,
+        "y": 30.11,
+        "w": 15.25,
+        "h": 3.72
+      },
+      "kind": "type"
+    }
+  ],
+  "result": {
+    "img": "floor-plan-r.webp"
+  }
+}

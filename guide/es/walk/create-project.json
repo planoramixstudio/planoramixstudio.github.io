@@ -1,0 +1,103 @@
+{
+  "slug": "create-project",
+  "locale": "es",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "create-project-1.webp",
+      "box": {
+        "x": 21.69,
+        "y": 33.56,
+        "w": 5.89,
+        "h": 1.78
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "create-project-2.webp",
+      "box": {
+        "x": 39.44,
+        "y": 39.01,
+        "w": 36.39,
+        "h": 4.78
+      },
+      "kind": "type"
+    },
+    {
+      "img": "create-project-3.webp",
+      "box": {
+        "x": 49.01,
+        "y": 30.23,
+        "w": 4.35,
+        "h": 2.72
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "create-project-4.webp",
+      "box": {
+        "x": 39.79,
+        "y": 33.37,
+        "w": 8.67,
+        "h": 2.72
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "create-project-5.webp",
+      "box": {
+        "x": 38.61,
+        "y": 28.14,
+        "w": 38.06,
+        "h": 52.02
+      },
+      "kind": "look"
+    },
+    {
+      "img": "create-project-6.webp",
+      "box": {
+        "x": 41.18,
+        "y": 37,
+        "w": 16.11,
+        "h": 18.94
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "create-project-7.webp",
+      "box": {
+        "x": 40.14,
+        "y": 38.83,
+        "w": 18.19,
+        "h": 3.17
+      },
+      "kind": "type"
+    },
+    {
+      "img": "create-project-8.webp",
+      "box": {
+        "x": 61.7,
+        "y": 89.61,
+        "w": 4.37,
+        "h": 4.17
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "create-project-9.webp",
+      "box": {
+        "x": 55.8,
+        "y": 56.97,
+        "w": 7.54,
+        "h": 4
+      },
+      "kind": "tap"
+    }
+  ],
+  "result": {
+    "img": "create-project-r.webp"
+  }
+}

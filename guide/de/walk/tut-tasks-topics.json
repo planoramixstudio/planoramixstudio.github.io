@@ -1,0 +1,113 @@
+{
+  "slug": "tut-tasks-topics",
+  "locale": "de",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "tut-tasks-topics-1.webp",
+      "box": {
+        "x": 17.71,
+        "y": 41,
+        "w": 9.21,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-2.webp",
+      "box": {
+        "x": 31,
+        "y": 34,
+        "w": 11.11,
+        "h": 4.11
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-tasks-topics-3.webp",
+      "box": {
+        "x": 76.57,
+        "y": 33.22,
+        "w": 1.39,
+        "h": 2.22
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-4.webp",
+      "box": {
+        "x": 79,
+        "y": 42.39,
+        "w": 3.69,
+        "h": 1.83
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-5.webp",
+      "box": {
+        "x": 85.11,
+        "y": 33.44,
+        "w": 7.29,
+        "h": 2.72
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-tasks-topics-6.webp",
+      "box": {
+        "x": 17.71,
+        "y": 49.47,
+        "w": 9.21,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-7.webp",
+      "box": {
+        "x": 30.89,
+        "y": 49.69,
+        "w": 11.11,
+        "h": 4.11
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-tasks-topics-8.webp",
+      "box": {
+        "x": 76.4,
+        "y": 48.92,
+        "w": 1.39,
+        "h": 2.22
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-9.webp",
+      "box": {
+        "x": 78.83,
+        "y": 55.36,
+        "w": 5.06,
+        "h": 1.83
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-10.webp",
+      "box": {
+        "x": 85.92,
+        "y": 49.14,
+        "w": 7.29,
+        "h": 2.72
+      },
+      "kind": "type"
+    }
+  ],
+  "result": {
+    "img": "tut-tasks-topics-r.webp"
+  }
+}

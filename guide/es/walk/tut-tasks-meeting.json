@@ -1,0 +1,103 @@
+{
+  "slug": "tut-tasks-meeting",
+  "locale": "es",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "tut-tasks-meeting-1.webp",
+      "box": {
+        "x": 50.14,
+        "y": 1,
+        "w": 4.11,
+        "h": 2.78
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-meeting-2.webp",
+      "box": {
+        "x": 14.65,
+        "y": 10.39,
+        "w": 1.11,
+        "h": 1.78
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-meeting-3.webp",
+      "box": {
+        "x": 29.41,
+        "y": 51,
+        "w": 3.16,
+        "h": 1.78
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-meeting-4.webp",
+      "box": {
+        "x": 17.78,
+        "y": 10.78,
+        "w": 44.27,
+        "h": 2.33
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-tasks-meeting-5.webp",
+      "box": {
+        "x": 62.88,
+        "y": 10.39,
+        "w": 8.33,
+        "h": 3.11
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-tasks-meeting-6.webp",
+      "box": {
+        "x": 23.15,
+        "y": 15.97,
+        "w": 2.55,
+        "h": 1.83
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-meeting-7.webp",
+      "box": {
+        "x": 23.63,
+        "y": 25.28,
+        "w": 5.16,
+        "h": 2.56
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-meeting-8.webp",
+      "box": {
+        "x": 17.85,
+        "y": 24.28,
+        "w": 9.79,
+        "h": 2.39
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-tasks-meeting-9.webp",
+      "box": {
+        "x": 28.26,
+        "y": 24.28,
+        "w": 7.71,
+        "h": 2.39
+      },
+      "kind": "type"
+    }
+  ],
+  "result": {
+    "img": "tut-tasks-meeting-r.webp"
+  }
+}

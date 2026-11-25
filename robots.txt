@@ -1,0 +1,6 @@
+# The site is still being built and must not appear in search results.
+# The block itself is the noindex meta tag on every page, NOT a rule
+# here — a crawler that is kept out cannot read the tag telling it to
+# leave. No sitemap is published while that is the case.
+User-agent: *
+Allow: /

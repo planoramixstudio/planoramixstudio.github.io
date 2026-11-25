@@ -1,0 +1,93 @@
+{
+  "slug": "tut-roombook-technik",
+  "locale": "de",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "tut-roombook-technik-1.webp",
+      "box": {
+        "x": 19.2,
+        "y": 1,
+        "w": 4.04,
+        "h": 2.78
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-technik-2.webp",
+      "box": {
+        "x": 21.84,
+        "y": 9.22,
+        "w": 4.88,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-technik-3.webp",
+      "box": {
+        "x": 46.47,
+        "y": 57.11,
+        "w": 7.05,
+        "h": 3.56
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-technik-4.webp",
+      "box": {
+        "x": 22.53,
+        "y": 9.89,
+        "w": 8.92,
+        "h": 3.11
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-roombook-technik-5.webp",
+      "box": {
+        "x": 25.75,
+        "y": 13.17,
+        "w": 2.5,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-technik-6.webp",
+      "box": {
+        "x": 23.02,
+        "y": 16.39,
+        "w": 6.92,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-technik-7.webp",
+      "box": {
+        "x": 22.53,
+        "y": 19.06,
+        "w": 8.92,
+        "h": 3.11
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-roombook-technik-8.webp",
+      "box": {
+        "x": 22.53,
+        "y": 41.83,
+        "w": 8.92,
+        "h": 2.89
+      },
+      "kind": "type"
+    }
+  ],
+  "result": {
+    "img": "tut-roombook-technik-r.webp"
+  }
+}

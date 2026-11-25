@@ -1,0 +1,73 @@
+{
+  "slug": "tut-roombook-diffuser",
+  "locale": "it",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "tut-roombook-diffuser-1.webp",
+      "box": {
+        "x": 9.85,
+        "y": 1.11,
+        "w": 8.73,
+        "h": 2.56
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-diffuser-2.webp",
+      "box": {
+        "x": 11.86,
+        "y": 4.78,
+        "w": 2.77,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-diffuser-3.webp",
+      "box": {
+        "x": 20.83,
+        "y": 37.11,
+        "w": 53.16,
+        "h": 31.58
+      },
+      "kind": "look"
+    },
+    {
+      "img": "tut-roombook-diffuser-4.webp",
+      "box": {
+        "x": 0.14,
+        "y": 29.22,
+        "w": 2.78,
+        "h": 4.44
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-diffuser-5.webp",
+      "box": {
+        "x": 3.82,
+        "y": 36.89,
+        "w": 10.14,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-diffuser-6.webp",
+      "box": {
+        "x": 3.47,
+        "y": 55.39,
+        "w": 13.61,
+        "h": 4.44
+      },
+      "kind": "draw"
+    }
+  ],
+  "result": {
+    "img": "tut-roombook-diffuser-r.webp"
+  }
+}

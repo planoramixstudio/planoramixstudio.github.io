@@ -1,0 +1,43 @@
+{
+  "slug": "tut-tasks-link",
+  "locale": "fr",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "tut-tasks-link-1.webp",
+      "box": {
+        "x": 19.04,
+        "y": 59.17,
+        "w": 4.41,
+        "h": 4
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-link-2.webp",
+      "box": {
+        "x": 39.79,
+        "y": 27.56,
+        "w": 4.17,
+        "h": 6.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-link-3.webp",
+      "box": {
+        "x": 56.65,
+        "y": 93.64,
+        "w": 5.12,
+        "h": 3.11
+      },
+      "kind": "tap"
+    }
+  ],
+  "result": {
+    "img": "tut-tasks-link-r.webp"
+  }
+}

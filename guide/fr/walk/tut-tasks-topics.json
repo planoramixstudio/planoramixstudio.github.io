@@ -1,0 +1,113 @@
+{
+  "slug": "tut-tasks-topics",
+  "locale": "fr",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "tut-tasks-topics-1.webp",
+      "box": {
+        "x": 17.22,
+        "y": 40.67,
+        "w": 6.82,
+        "h": 3.33
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-2.webp",
+      "box": {
+        "x": 29.89,
+        "y": 34,
+        "w": 11.11,
+        "h": 4.11
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-tasks-topics-3.webp",
+      "box": {
+        "x": 75.93,
+        "y": 33.22,
+        "w": 1.39,
+        "h": 2.22
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-4.webp",
+      "box": {
+        "x": 78.36,
+        "y": 42.39,
+        "w": 3.69,
+        "h": 1.83
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-5.webp",
+      "box": {
+        "x": 85.12,
+        "y": 33.44,
+        "w": 7.29,
+        "h": 2.72
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-tasks-topics-6.webp",
+      "box": {
+        "x": 17.22,
+        "y": 49.14,
+        "w": 6.82,
+        "h": 3.33
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-7.webp",
+      "box": {
+        "x": 29.73,
+        "y": 49.69,
+        "w": 11.11,
+        "h": 4.11
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-tasks-topics-8.webp",
+      "box": {
+        "x": 75.7,
+        "y": 48.92,
+        "w": 1.39,
+        "h": 2.22
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-9.webp",
+      "box": {
+        "x": 78.13,
+        "y": 55.36,
+        "w": 5.06,
+        "h": 1.83
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-topics-10.webp",
+      "box": {
+        "x": 85.93,
+        "y": 49.14,
+        "w": 7.29,
+        "h": 2.72
+      },
+      "kind": "type"
+    }
+  ],
+  "result": {
+    "img": "tut-tasks-topics-r.webp"
+  }
+}

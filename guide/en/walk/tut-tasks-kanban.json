@@ -1,0 +1,43 @@
+{
+  "slug": "tut-tasks-kanban",
+  "locale": "en",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "tut-tasks-kanban-1.webp",
+      "box": {
+        "x": 11.2,
+        "y": 5.5,
+        "w": 3.64,
+        "h": 3.11
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-kanban-2.webp",
+      "box": {
+        "x": 82.7,
+        "y": 10.14,
+        "w": 4.9,
+        "h": 2.72
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-tasks-kanban-3.webp",
+      "box": {
+        "x": 33.96,
+        "y": 24.78,
+        "w": 14.03,
+        "h": 13.47
+      },
+      "kind": "draw"
+    }
+  ],
+  "result": {
+    "img": "tut-tasks-kanban-r.webp"
+  }
+}

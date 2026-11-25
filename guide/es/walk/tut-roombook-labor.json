@@ -1,0 +1,93 @@
+{
+  "slug": "tut-roombook-labor",
+  "locale": "es",
+  "width": 1920,
+  "height": 1200,
+  "device": "browser",
+  "app": "494813a",
+  "frames": [
+    {
+      "img": "tut-roombook-labor-1.webp",
+      "box": {
+        "x": 32.01,
+        "y": 14.61,
+        "w": 1.67,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-labor-2.webp",
+      "box": {
+        "x": 22.53,
+        "y": 9.89,
+        "w": 8.96,
+        "h": 3.11
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-roombook-labor-3.webp",
+      "box": {
+        "x": 25.76,
+        "y": 13.17,
+        "w": 2.5,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-labor-4.webp",
+      "box": {
+        "x": 23.02,
+        "y": 16.39,
+        "w": 6.92,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-labor-5.webp",
+      "box": {
+        "x": 22.53,
+        "y": 19.06,
+        "w": 8.96,
+        "h": 3.11
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-roombook-labor-6.webp",
+      "box": {
+        "x": 22.53,
+        "y": 41.83,
+        "w": 8.96,
+        "h": 2.89
+      },
+      "kind": "type"
+    },
+    {
+      "img": "tut-roombook-labor-7.webp",
+      "box": {
+        "x": 26.18,
+        "y": 24.94,
+        "w": 1.67,
+        "h": 2.67
+      },
+      "kind": "tap"
+    },
+    {
+      "img": "tut-roombook-labor-8.webp",
+      "box": {
+        "x": 22.53,
+        "y": 24.94,
+        "w": 8.96,
+        "h": 3.11
+      },
+      "kind": "tap"
+    }
+  ],
+  "result": {
+    "img": "tut-roombook-labor-r.webp"
+  }
+}
